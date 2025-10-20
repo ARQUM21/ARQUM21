@@ -1,6 +1,6 @@
 ![Profile Banner](https://github.com/ARQUM21/ARQUM21/blob/main/Keep%20it%20simple.%20(13).png)
 
-<h1 align="center">Gull Snobar</h1>
+<h1 align="center">Hi, I am Muhammad Arqum Tariq</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+Developer;Backend+Developer;Creative+Coder;Problem+Solver" alt="Typing SVG" />
 </div>
@@ -17,35 +17,31 @@ I am a passionate Full Stack Developer specializing in MERN stack with expertise
 <h3 align="left">lets Connected with me on 🔗 :</h3>
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/shehza-d" target="blank"><img align="center"
-			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px"
-			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
+  <a href="https://www.linkedin.com/in/shehza-d" target="blank"><img align="center"
+      src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
+  <a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px"
+      src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
+  <a href="mailto:youremail@gmail.com" target="blank"><img align="center"
+      src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="gmail" /></a>	
 </p>
 
 ---
 
-## Technical Skills
+# **🛠 Technical Skills**
 
 ### **Frontend Development:**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,redux,nextjs,bootstrap,materialui,tailwind" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,redux,nextjs,bootstrap,materialui,tailwind" style="height: 50px;" />
 </p>
 
 ### **Backend & Database:**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" style="height: 55px;" />
 </p>
 
 ### **Development Tools:**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,npm" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,npm" style="height: 50px;" />
 </p>
 
 ---
@@ -63,13 +59,8 @@ I am a passionate Full Stack Developer specializing in MERN stack with expertise
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARQUM21&bg_color=0d1117&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&hide_border=true)
 
 <br>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARQUM21&theme=onedark&no-frame=true&margin-w=15&margin-h=15&title=AllSuperRank,Commit,Issues,PullRequest,Repositories,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ARQUM21&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ARQUM21&layout=compact&theme=radical&title_color=2E9EF7&text_color=ffffff&border_color=2E9EF7" height="300" />
-</div>
