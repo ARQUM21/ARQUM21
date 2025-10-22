@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://react-agency-pro.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A3D62?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-0A3D62?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" width="300" height="300" />
   </a>
 </p>
 
 ---
 
-## Professional Summary
+# Professional Summary
 
 Passionate MERN Stack Developer with expertise in building scalable and responsive web applications. Proficient in modern technologies including React.js, Next.js, Node.js, Express, and MongoDB. Experienced in full-stack development, REST APIs, and database management. Strong problem-solving skills with a focus on writing clean, efficient code and following best practices. Adept at working in Agile environments and collaborating with cross-functional teams to deliver high-quality solutions.
 
