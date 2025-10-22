@@ -27,8 +27,6 @@ Passionate MERN Stack Developer with expertise in building scalable and responsi
       src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
   <a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px"
       src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-  <a href="marqum987@gmail.com" target="blank"><img align="center"
-      src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="gmail" /></a>	
 </p>
 
 
