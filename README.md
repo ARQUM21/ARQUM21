@@ -54,6 +54,13 @@ Passionate MERN Stack Developer with expertise in building scalable and responsi
 
 ---
 
+<div align="center">
+ 
+ ![snake gif](https://github.com/ARQUM21/ARQUM21/blob/output/github-snake-dark.svg)
+</div>
+
+
+
 # 📊 GitHub Stats
 
 <div align="center">
