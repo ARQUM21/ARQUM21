@@ -6,6 +6,12 @@
 </div>
 
 
+<p align="center">
+  <a href="https://shehzad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A3D62?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## Professional Summary
@@ -24,6 +30,8 @@ I am a passionate Full Stack Developer specializing in MERN stack with expertise
   <a href="mailto:youremail@gmail.com" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="gmail" /></a>	
 </p>
+
+
 
 ---
 
