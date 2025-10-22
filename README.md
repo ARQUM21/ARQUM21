@@ -30,17 +30,17 @@ I am a passionate Full Stack Developer specializing in MERN stack with expertise
 # **🛠 Technical Skills**
 
 ### **Frontend Development:**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,redux,nextjs,bootstrap,materialui,tailwind" style="height: 50px;" />
 </p>
 
 ### **Backend & Database:**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" style="height: 55px;" />
 </p>
 
 ### **Development Tools:**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,npm" style="height: 50px;" />
 </p>
 
