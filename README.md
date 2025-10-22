@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi, I am Muhammad Arqum Tariq</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+Developer;Backend+Developer;Creative+Coder;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(MERN);Frontend+Developer;Backend+Developer;Creative+Coder;Problem+Solver" alt="Typing SVG" />
 </div>
 
 
 <p align="center">
-  <a href="https://shehzad.vercel.app/" target="_blank">
+  <a href="https://react-agency-pro.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A3D62?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -23,11 +23,11 @@ Passionate MERN Stack Developer with expertise in building scalable and responsi
 <h3 align="left">lets Connected with me on 🔗 :</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shehza-d" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/marqum" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
   <a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px"
       src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-  <a href="mailto:youremail@gmail.com" target="blank"><img align="center"
+  <a href="marqum987@gmail.com" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="gmail" /></a>	
 </p>
 
@@ -79,3 +79,14 @@ Passionate MERN Stack Developer with expertise in building scalable and responsi
 </p>
 
 <br>
+
+<br>
+
+---
+
+<div align='center'>
+  <h3>💡 Developer Wisdom</h3>
+  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
+</div>
+
+
