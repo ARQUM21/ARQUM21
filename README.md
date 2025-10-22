@@ -54,19 +54,19 @@ Passionate MERN Stack Developer with expertise in building scalable and responsi
 
 ---
 
-<div align="center">
- 
- ![snake gif](https://github.com/ARQUM21/ARQUM21/blob/output/github-snake-dark.svg)
-</div>
-
-
-
 # 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARQUM21&show_icons=true&theme=radical&title_color=2E9EF7&icon_color=2E9EF7&text_color=ffffff&border_color=2E9EF7" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARQUM21&theme=radical&background=0d1117&border=2E9EF7&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARQUM21&layout=compact&theme=radical&title_color=2E9EF7&text_color=ffffff&border_color=2E9EF7" height="165" />
+</div>
+
+---
+
+<div align="center">
+ 
+ ![snake gif](https://github.com/ARQUM21/ARQUM21/blob/output/github-snake-dark.svg)
 </div>
 
 ---
