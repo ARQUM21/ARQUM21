@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/ARQUM21/ARQUM21/blob/main/Keep%20it%20simple.%20(13).png)
+![Profile Banner](https://github.com/ARQUM21/ARQUM21/blob/4838ad934439cd3c72dc56e9fe508c5d2b514269/Banner.png)
 
 <h1 align="center">Hi, I am Muhammad Arqum Tariq</h1>
 <div align="center">
