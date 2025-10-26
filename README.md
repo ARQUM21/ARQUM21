@@ -22,13 +22,13 @@ Passionate MERN Stack Developer with expertise in building scalable and responsi
 
 <h3 align="left">Let's Connect with me on 🔗 :</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/marqum" target="blank">
+  <a href="https://www.linkedin.com/in/muhammadarqumtariq" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
   </a>
   <a href="https://leetcode.com/u/MuhammadArqum/" target="blank">
     <img src="./icons/leetcode.jpg" alt="leetcode" height="50" width="50"  />
   </a>
-  <a href="https://twitter.com/shehza_d_" target="blank">
+  <a href="https://x.com/MArqum797443" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter" />
   </a>
 </p>
