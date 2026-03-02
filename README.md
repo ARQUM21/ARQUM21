@@ -16,7 +16,7 @@
 
 # Professional Summary
 
-Passionate MERN Stack Developer with expertise in building scalable and responsive web applications. Proficient in modern technologies including React.js, Next.js, Node.js, Express, and MongoDB. Experienced in full-stack development, REST APIs, and database management. Strong problem-solving skills with a focus on writing clean, efficient code and following best practices. Adept at working in Agile environments and collaborating with cross-functional teams to deliver high-quality solutions.
+Passionate MERN Stack Developer with expertise in building scalable and responsive web applications. Proficient in modern technologies including React.js, Node.js, Express, and MongoDB. Experienced in full-stack development, REST APIs, and database management. Strong problem-solving skills with a focus on writing clean, efficient code and following best practices. Adept at working in Agile environments and collaborating with cross-functional teams to deliver high-quality solutions.
 
 ---
 
