@@ -40,12 +40,12 @@ Passionate MERN Stack Developer with expertise in building scalable and responsi
 
 ### **Frontend Development:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,redux,nextjs,bootstrap,materialui,tailwind" style="height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,redux,bootstrap,materialui,tailwind" style="height: 50px;" />
 </p>
 
 ### **Backend & Database:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" style="height: 55px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" style="height: 55px;" />
 </p>
 
 ### **Development Tools:**
