@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://portfolio-arqum.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-0A3D62?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" width="300" height="300" />
+    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-0A3D62?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" width="300" height="50" />
   </a>
 </p>
 
