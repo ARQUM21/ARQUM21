@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/ARQUM21/ARQUM21/blob/4838ad934439cd3c72dc56e9fe508c5d2b514269/Banner.png)
+![Profile Banner](https://github.com/ARQUM21/ARQUM21/blob/31820ed5927f51408ae6ff143bbaecbe7373737a/banner.png)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ARQUM21&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="visitor counter" />
