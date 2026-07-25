@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I am Muhammad Arqum Tariq 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer+Instructor+%40+Aptech;Founder+%40+Innoze+Tech+Solutions;Full+Stack+Developer;Educator+%26+Entrepreneur;Certified+100%2B+Future+Software+Engineers+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer+Instructor+%40+Aptech;Founder+%40+Innoze+Tech;Full+Stack+Developer;Educator+%26+Entrepreneur;Certified+100%2B+Future+Software+Engineers+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 <p align="center">
