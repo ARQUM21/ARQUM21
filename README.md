@@ -91,11 +91,13 @@ I don't just write code — I build products, teach engineers, and create impact
 
 # 🚀 Featured Projects
 
+
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| 🛒 **Grocery Delivery** | Full Stack Grocery Delivery Platform | PERN Stack | <a href="https://grocery-delivery-xi-bay.vercel.app/" target="_blank">View</a> |
 | 💊 **Prescripto** | Doctor Appointment System — Built solo in 6 months (FYP) | MERN Stack | <a href="https://prescripto-frontend-eosin.vercel.app/" target="_blank">View</a> |
 | 🚗 **Car Rental Platform** | Full Stack Car Rental Booking System | MERN Stack | <a href="https://car-rental-frontend-fawn.vercel.app/" target="_blank">View</a> |
-| 🌐 **Innoze Tech** | Company Website with AI Chatbot Integration | React + Vite + Tailwind + Gemini AI | <a href="https://innoze.vercel.app/" target="_blank">View</a> |
+| 🌐 **Innoze Tech** | Company Website with AI Chatbot Integration | MERN Stack + Gemini AI | <a href="https://innoze.vercel.app/" target="_blank">View</a> |
 
 ---
 
